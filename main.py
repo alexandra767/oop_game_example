@@ -27,6 +27,6 @@ print(another_troll)
 # while vamp.alive:
 #     vamp.take_damage(1)
 
-vamp.lives = 0
-vamp.hit_points = 1
+vamp._lives = 0
+vamp._hit_points = 1
 print(vamp)
